@@ -1,4 +1,6 @@
-# Objective:
+# Hotel Reviews Analysis
+
+### Objective:
 This project was conducted to address the challenges posed by the rapid increase in textual information from sources such as social media, consumer reviews, and feedback within today's data-driven businesses. These challenges include the need for data-driven decisions to remain competitive and flexible in the market. However, traditional on-premises systems struggle to effectively harness and utilize this data.
 
 In response to these challenges, this project aims to assist hotels in Montreal by developing a text-mining strategy. This strategy involves consolidating customer feedback from various online platforms, including booking websites, social media, and specialized review sites, into a non-structural database (No-SQL). Subsequently, the project involves data cleaning and text preprocessing to ensure data quality.
