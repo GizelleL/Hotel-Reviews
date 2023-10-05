@@ -1,4 +1,4 @@
-# Hotel Reviews Analysis
+# Hotel Reviews Sentiment Analysis
 
 ### Objective:
 This project was conducted to address the challenges posed by the rapid increase in textual information from sources such as social media, consumer reviews, and feedback within today's data-driven businesses. These challenges include the need for data-driven decisions to remain competitive and flexible in the market. However, traditional on-premises systems struggle to effectively harness and utilize this data.
